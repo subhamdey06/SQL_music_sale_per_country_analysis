@@ -1,2 +1,2 @@
 # SQL_music_sale_per_country_analysis
- Conducted music store analysis, examining artist sales across cities. Identified top-selling artist, popular genres, and highest-spending country.
+ Conducted an in-depth music store analysis using MySQL, scrutinizing music sales across various artists, cities, and genres. Unveiled insights on top-selling artists, the most popular genre, and identified the country with the highest spending on specific genres and artists. Leveraging MySQL, the analysis provided a comprehensive understanding of customer preferences, aiding strategic decisions for inventory management and marketing strategies. This data-driven approach illuminated key trends, enhancing the store's ability to tailor offerings to meet customer demands effectively.
